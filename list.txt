@@ -1,5 +1,4 @@
 192.168.1.66 	DESKTOP E1CP4IB
 192.168.1.34    GalaxyS8
-rewoly-router.keenetic.pro     Keenetic Extra from Mirny
 mail.ru         mail.ru
 google.com      GOOGLE
